@@ -9,9 +9,10 @@ These days, my focus is on improving GoDaddy.com's Domain search experience.
 
 [![SkillIcons](https://skillicons.dev/icons?i=java,spring,js,nodejs,aws,react,redux,py,django,mongodb,docker)](https://skillicons.dev)<br/>
 
-<details>
-  <summary>Github Stats ⚡</summary>
-  
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=johnsanthosh&theme=blueberry&hide_border=true&line_height=20)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsanthosh&layout=compact&theme=blueberry&hide_border=true)
-</details>
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=johnsanthosh&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+</p>
+
+---
